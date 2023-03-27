@@ -1,1 +1,3 @@
 ||hotjar.com^
+||https://crm.kolbystudio.cz.test^
+||https://kolbystudio.cz.test^
